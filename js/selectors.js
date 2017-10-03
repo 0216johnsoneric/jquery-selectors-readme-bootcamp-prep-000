@@ -1,2 +1,2 @@
 function paragraphSelector()
-  $('<p>')
+  $('p')
